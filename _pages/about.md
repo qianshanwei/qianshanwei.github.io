@@ -16,6 +16,7 @@ permalink: /
 I am a senior undergraduate student in Computer Science and Engineering at **Southeast University (SEU)**. In 2026, I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as a Ph.D. student, under the supervision of **Prof. [Tieniu Tan](https://people.ucas.ac.cn/~tantieniu)**.
 
 My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **Agentic AI**, and **Trustworthy AI**. I have published several papers at top-tier AI conferences such as NeurIPS, ICLR, ICML, ICCV, and ACL.
+
 **I am always open to and excited about various types of research collaborations!** Whether you are interested in discussing MLLMs, exploring new paradigms for AI agents, or working on trustworthy AI, please feel free to reach out.
 
 📧 **Email:** [qianshanwei7@gmail.com](mailto:qianshanwei7@gmail.com)  
