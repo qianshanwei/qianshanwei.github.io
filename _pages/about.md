@@ -73,7 +73,7 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_previews/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Single image unlearning: Efficient machine unlearning in multimodal large language models** J Li, **Qianshan Wei**, C Zhang, G Qi, M Du, Y Chen, S Bi, F Liu  
+**Single image unlearning: Efficient machine unlearning in multimodal large language models** Jiaqi Li\*, **Qianshan Wei\***, C Zhang, G Qi, M Du, Y Chen, S Bi, F Liu  
 *Advances in Neural Information Processing Systems (NeurIPS) 37, 2024*
 </div>
 </div>
