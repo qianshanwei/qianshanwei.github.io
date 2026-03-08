@@ -81,11 +81,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_previews/amemguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A-memguard: A proactive defense framework for llm-based agent memory** **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Z Lin, XF Wang  
-*arXiv preprint 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
-</div>
-</div>
-
 # 📚 Recent Work & Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper_previews/dual_priv.png' alt="sym" width="100%"></div></div>
@@ -108,7 +103,7 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 <div class='paper-box-text' markdown="1">
 
 **A-memguard: A proactive defense framework for llm-based agent memory** **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Z Lin, XF Wang  
-*arXiv preprint, 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
+*arXiv preprint 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
 </div>
 </div>
 
