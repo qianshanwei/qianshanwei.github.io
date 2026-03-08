@@ -78,9 +78,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_previews/amemguard.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 # 📚 Recent Work & Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper_previews/dual_priv.png' alt="sym" width="100%"></div></div>
@@ -106,10 +103,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 *arXiv preprint 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
 </div>
 </div>
-
-- **Being-m0.5: A real-time controllable vision-language-motion model**, B Cao, **Qianshan Wei** et al., *arXiv 2025*.
-
-<span class='anchor' id='-professional-service'></span>
 
 <span class='anchor' id='-professional-service'></span>
 
