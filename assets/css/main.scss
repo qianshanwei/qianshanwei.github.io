@@ -1,8 +1,8 @@
-
+/* --- 纯净版：完全复刻 Yin Zhenfei 排版 --- */
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -30,25 +30,24 @@
     order: 1;
 }
 
-/* 核心：用原生 Media Query 替换他的 @include breakpoint($medium) */
 /* 电脑端排版（图片左侧占40%，文字右侧占60%） */
 @media screen and (min-width: 768px) {
     .paper-box .paper-box-image {
-        justify-content: left;
+        justify-content: flex-start;
         min-width: 200px;
         max-width: 40%;
         order: 1;
     }
     
     .paper-box .paper-box-text {
-        justify-content: left;
+        justify-content: flex-start;
         padding-left: 2em;
         max-width: 60%;
         order: 2;
     }
 }
 
-/* 锚点跳转遮挡修复（替换掉原版的 $scroll_offset 变量） */
+/* 锚点跳转遮挡修复 */
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -58,15 +57,15 @@ h1:before, .anchor:before {
     margin-top: -2em;
 }
 
-/* 徽章样式（完全一致） */
+/* 徽章样式 */
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    margin-top: 0.5em;
+    margin-left: -0.5em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: 0.8em;
     z-index: 10;
 }
