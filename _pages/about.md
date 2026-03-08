@@ -21,8 +21,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 
 📧 **Email:** [qianshanwei7@gmail.com](mailto:qianshanwei7@gmail.com)  
 
-<a href='https://scholar.google.com/citations?user=ea5h-FcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 <span class='anchor' id='-news'></span>
 
 # 📢 News
