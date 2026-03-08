@@ -155,3 +155,9 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 
 # 📝 Professional Service
 - **Reviewer:** CVPR, ICML, NeurIPS
+
+<span class='anchor' id='-educations'></span>
+
+# 🎓 Educations
+- **Ph.D. in Pattern Recognition and Intelligent Systems** (Incoming), Institute of Automation, Chinese Academy of Sciences (CASIA), 2026–Present
+- **B.Eng. in Computer Science and Engineering**, Southeast University (SEU), 2022–2026
