@@ -1,16 +1,13 @@
----
----
-
 /*
- *    Minimal Mistakes Jekyll Theme
+ * Minimal Mistakes Jekyll Theme (Modified for Compatibility)
  *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
+ * - Michael Rose
+ * - mademistakes.com
+ * - https://twitter.com/mmistakes
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -40,83 +37,78 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* --- 修复并优化后的学术论文列表排版 --- */
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+    align-items: center; /* 垂直居中 */
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
-
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-    }
-
-
+    padding: 2em 0;
+    flex-wrap: wrap; /* 允许在小屏幕上换行 */
 }
 
-$scroll_offset : 2em;
+.paper-box-image {
+    flex: 0 0 35%; /* 宽屏下固定占 35% */
+    max-width: 35%;
+    padding-right: 2em;
+    position: relative; /* 为绝对定位的 badge 提供参考点 */
+    display: flex;
+    justify-content: flex-start;
+}
+
+.paper-box-image img {
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* 更柔和的高级阴影 */
+    border-radius: 8px; /* 增加现代感圆角 */
+    object-fit: cover;
+}
+
+.paper-box-text {
+    flex: 1; /* 占据剩余宽度 */
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+/* 手机/小屏幕响应式适配 (不依赖 sass 变量) */
+@media screen and (max-width: 768px) {
+    .paper-box {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .paper-box-image {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-right: 0;
+        margin-bottom: 1.5em; /* 手机端图片与下方文字的间距 */
+    }
+    .paper-box-text {
+        width: 100%;
+    }
+}
+
+/* 锚点导航偏移修复 */
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
     position: relative; 
     width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+    height: 2em; /* 替换了原有的变量 */
+    margin-top: -2em;
 }
 
+/* 徽章样式优化 */
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 2px 10px;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: 10px;    
+    left: -10px; /* 稍微左移，制造立体感 */
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background-color: #00369f; /* 经典学术蓝 */
+    font-size: 0.85em;
+    border-radius: 4px;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
-
-
-
-
-
-
-
-
-
-
 
 /* 渐入动画（显示状态） */
 #publications-content.fade-in {
@@ -135,12 +127,7 @@ h1:before, .anchor:before {
     opacity: 0;
 }
 
-
-
-
-
-
-
+/* --- 原封不动的自定义模块样式 --- */
 .neuro-symbolic {
     margin: 20px auto;
     width: 90%;
