@@ -49,7 +49,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks** Yi Yu, Q Zhang, S Ye, X Lin, **Qianshan Wei**, K Wang, W Yang, D Tao, X Jiang  
+**Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks** 
+  Yi Yu, Q Zhang, S Ye, X Lin, **Qianshan Wei**, K Wang, W Yang, D Tao, X Jiang  
 *International Conference on Learning Representations (ICLR), 2026*
   </div>
 </div>
@@ -62,7 +63,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Scaling large motion models with million-level human motions** Y Wang, S Zheng, B Cao, **Qianshan Wei**, W Zeng, Q Jin, Z Lu  
+**Scaling large motion models with million-level human motions** 
+   Y Wang, S Zheng, B Cao, **Qianshan Wei**, W Zeng, Q Jin, Z Lu  
 *International Conference on Machine Learning (ICML), 2025* **[Media Report (量子位)](https://mp.weixin.qq.com/s/UpbqK__jwXdAptP-eE2Uug)**
   </div>
 </div>
@@ -75,7 +77,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**MotionCtrl: A Real-time Controllable Vision-Language-Motion Model** B Cao, S Zheng, Y Wang, L Xia, **Qianshan Wei**, Q Jin, J Liu, Z Lu  
+**MotionCtrl: A Real-time Controllable Vision-Language-Motion Model** 
+  B Cao, S Zheng, Y Wang, L Xia, **Qianshan Wei**, Q Jin, J Liu, Z Lu  
 *International Conference on Computer Vision (ICCV), 2025*
   </div>
 </div>
@@ -88,7 +91,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models** J Li, C Zhang, M Du, H Zhang, Y Chen, **Qianshan Wei**, J Fang, R Wang, S Bi, G Qi  
+**Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models** 
+    J Li, C Zhang, M Du, H Zhang, Y Chen, **Qianshan Wei**, J Fang, R Wang, S Bi, G Qi  
 *Findings of the Association for Computational Linguistics (ACL), 2025*
   </div>
 </div>
@@ -101,7 +105,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Single image unlearning: Efficient machine unlearning in multimodal large language models** Jiaqi Li\*, **Qianshan Wei\***, C Zhang, G Qi, M Du, Y Chen, S Bi, F Liu  
+**Single image unlearning: Efficient machine unlearning in multimodal large language models** 
+    Jiaqi Li\*, **Qianshan Wei\***, C Zhang, G Qi, M Du, Y Chen, S Bi, F Liu  
 *Advances in Neural Information Processing Systems (NeurIPS) 37, 2024*
   </div>
 </div>
@@ -118,7 +123,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Dual-Priv Pruning: Efficient Differential Private Fine-Tuning in Multimodal Large Language Models** **Qianshan Wei**, Jiaqi Li, Zihan You, Yi Zhan, Kecen Li, Jialin Wu, Xinfeng Li, Hengjun Liu, Yi Yu, Bin Cao, Y Xu, Y Liu, Guilin Qi.  
+**Dual-Priv Pruning: Efficient Differential Private Fine-Tuning in Multimodal Large Language Models** **Qianshan Wei**,
+    Jiaqi Li, Zihan You, Yi Zhan, Kecen Li, Jialin Wu, Xinfeng Li, Hengjun Liu, Yi Yu, Bin Cao, Y Xu, Y Liu, Guilin Qi.  
 *arXiv preprint, 2025* > 💡 *Note: This work received **all positive reviews (5, 4, 4, 4)** from NeurIPS 2025 Main Track reviewers but was regrettably not selected for the final program. We are looking for a better home for this contribution.*
   </div>
 </div>
@@ -131,7 +137,8 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Toward Efficient Agents: Memory, Tool learning, and Planning** X Yang, L Li, H Zhou, T Zhu, X Qu, Y Fan, **Qianshan Wei**, R Ye, L Kang, Y Qin, et al.  
+**Toward Efficient Agents: Memory, Tool learning, and Planning** 
+    X Yang, L Li, H Zhou, T Zhu, X Qu, Y Fan, **Qianshan Wei**, R Ye, L Kang, Y Qin, et al.  
 *arXiv preprint, 2026*
   </div>
 </div>
@@ -144,12 +151,14 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**A-memguard: A proactive defense framework for llm-based agent memory** **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Z Lin, XF Wang  
+**A-memguard: A proactive defense framework for llm-based agent memory**
+    **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Z Lin, XF Wang  
 *arXiv preprint 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
   </div>
 </div>
 
-- **Being-m0.5: A real-time controllable vision-language-motion model**, B Cao, **Qianshan Wei** et al., *arXiv 2025*.
+- **Being-m0.5: A real-time controllable vision-language-motion model**,
+-  B Cao, **Qianshan Wei** et al., *arXiv 2025*.
 
 <span class='anchor' id='-professional-service'></span>
 
