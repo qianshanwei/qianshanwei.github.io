@@ -58,6 +58,20 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">AAAI 2026</div>
+      <img src='images/paper_previews/aaai2026.png' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Forget What Has Seen: Selective Concept Unlearning in Segmentation Foundation Models**<br>
+*Miaozeng Du, Jiaqi Li, Sirui Pan, Yi Zhan, Guilin Qi, Yuxin Zhang, Rihui Jin, Yinjia Shu, **Qianshan Wei***<br>
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026*
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICML 2025</div>
       <img src='images/paper_previews/icml2025.png' alt="sym">
     </div>
