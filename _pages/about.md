@@ -16,6 +16,9 @@ permalink: /
 I am a senior undergraduate student in Computer Science and Engineering at **Southeast University (SEU)**. In 2026, I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as a Ph.D. student, under the supervision of **Prof. [Tieniu Tan](https://people.ucas.ac.cn/~tantieniu)**.
 
 My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **Agentic AI**, and **Trustworthy AI**. I have published several papers at top-tier AI conferences such as NeurIPS, ICLR, ICML, ICCV, and ACL.
+**I am always open to and excited about various types of research collaborations!** Whether you are interested in discussing MLLMs, exploring new paradigms for AI agents, or working on trustworthy AI, please feel free to reach out.
+
+📧 **Email:** [qianshanwei7@gmail.com](mailto:qianshanwei7@gmail.com)  
 
 <a href='https://scholar.google.com/citations?user=ea5h-FcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -27,7 +30,7 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 - *2026.01*: Our survey/paper "**Toward Efficient Agents**" is out on arXiv.
 - *2025.10*: 📰 Our proactive defense framework "**A-MemGuard**" was featured by **[新智元 (AI Era)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**.
 - *2025.07*: 🏆 "**Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning**" accepted by **ACL 2025**.
-- *2025.05*: 🏆 "**Scaling large motion models with million-level human motions**" accepted by **ICML 2025**, with media coverage by **[量子位 (QbitAI)](https://mp.weixin.qq.com/s/UpbqK__jwXdAptP-eE2Uug)**.
+- *2025.05*: 🏆 "**Scaling large motion models with million-level human motions**" accepted by **ICML 2025**,with media coverage by **[量子位 (QbitAI)](https://mp.weixin.qq.com/s/UpbqK__jwXdAptP-eE2Uug)**.
 - *2025.01*: 🏆 "**MotionCtrl: A Real-time Controllable Vision-Language-Motion Model**" accepted by **ICCV 2025**.
 - *2024.10*: 🏆 "**Single image unlearning: Efficient machine unlearning in MLLMs**" accepted by **NeurIPS 2024**.
 
@@ -111,7 +114,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 </div>
 
 - **Being-m0.5: A real-time controllable vision-language-motion model**, B Cao, **Qianshan Wei** et al., *arXiv 2025*.
-- **Quo vadis, motion generation? From large language models to large motion models**, Y Wang, **Qianshan Wei** et al., *2024*.
 
 <span class='anchor' id='-professional-service'></span>
 
