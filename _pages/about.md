@@ -27,10 +27,10 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 <span class='anchor' id='-news'></span>
 
 # 📢 News
+- *2026.05*: 🏆 "**A-MemGuard: A proactive defense framework for llm-based agent memory**" accepted by **ICML 2026**. See you in Seoul, Korea! **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
 - *2026.03*: 🏆 Our paper "**Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks**" accepted by **ICLR 2026**!
 - *2026.03*: 🏆 Our work on **Selective Concept Unlearning (SCU)** for segmentation foundation models accepted by **AAAI 2026**.
 - *2026.01*: Our survey/paper "**Toward Efficient Agents**" is out on arXiv.
-- *2025.10*: 📰 Our proactive defense framework "**A-MemGuard**" was featured by **[新智元 (AI Era)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**.
 - *2025.07*: 🏆 "**Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning**" accepted by **ACL 2025**.
 - *2025.05*: 🏆 "**Scaling large motion models with million-level human motions**" accepted by **ICML 2025**, with media coverage by **[量子位 (QbitAI)](https://mp.weixin.qq.com/s/UpbqK__jwXdAptP-eE2Uug)**.
 - *2025.01*: 🏆 "**MotionCtrl: A Real-time Controllable Vision-Language-Motion Model**" accepted by **ICCV 2025**.
@@ -66,6 +66,20 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 **Forget What Has Seen: Selective Concept Unlearning in Segmentation Foundation Models**<br>
 *Miaozeng Du, Jiaqi Li, Sirui Pan, Yi Zhan, Guilin Qi, Yuxin Zhang, Rihui Jin, Yinjia Shu, **Qianshan Wei***<br>
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026*
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML 2026</div>
+      <img src='images/paper_previews/amemguard.png' alt="sym">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**A-MemGuard: A proactive defense framework for llm-based agent memory**
+  <br> **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Zhiqiang Lin, XiaoFeng Wang <br>
+*International Conference on Machine Learning (ICML), 2026* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
   </div>
 </div>
 
@@ -154,20 +168,6 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
 **Toward Efficient Agents: Memory, Tool learning, and Planning** 
    <br> X Yang, L Li, H Zhou, T Zhu, X Qu, Y Fan, **Qianshan Wei**, R Ye, L Kang, Y Qin, et al. <br> 
 *arXiv preprint, 2026*
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv 2025</div>
-      <img src='images/paper_previews/amemguard.png' alt="sym">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**A-memguard: A proactive defense framework for llm-based agent memory**
-  <br> **Qianshan Wei**, T Yang, Y Wang, X Li, L Li, Z Yin, Y Zhan, T Holz, Zhiqiang Lin, XiaoFeng Wang <br>
-*arXiv preprint 2025* **[Media Report (新智元)](https://mp.weixin.qq.com/s/ZRLnTkTDYXpQktwUkD92EQ)**
   </div>
 </div>
 
