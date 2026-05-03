@@ -153,7 +153,7 @@ My primary research focus spans **Multimodal Large Language Models (MLLMs)**, **
   <div class='paper-box-text' markdown="1">
 **Dual-Priv Pruning: Efficient Differential Private Fine-Tuning in Multimodal Large Language Models** **Qianshan Wei**,
     <br>Jiaqi Li, Zihan You, Yi Zhan, Kecen Li, Jialin Wu, Xinfeng Li, Hengjun Liu, Yi Yu, Bin Cao, Y Xu, Y Liu, Guilin Qi.<br>  
-*arXiv preprint, 2025* > 💡 *Note: This work received **all positive reviews (5, 4, 4, 4)** from NeurIPS 2025 Main Track reviewers but was regrettably not selected for the final program. We are looking for a better home for this contribution.*
+*arXiv preprint, 2025* > 💡 *Note: This work received **all positive reviews (5, 4, 4, 4)** from **NeurIPS 2025** Main Track reviewers and another strong but unsuccessful round at **ICML 2026** with scores **5, 4, 4, 4**. We are still looking for the right home for this contribution.*
   </div>
 </div>
 
